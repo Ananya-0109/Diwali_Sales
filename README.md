@@ -12,7 +12,17 @@ This project showcases a Power BI dashboard built to analyze sales trends during
 - 👔 Revenue by **Customer Occupation**
 - 📈 Total Sales Amount and Orders
 
----
+
+## 📸 Preview
+
+![Screenshot 2025-06-05 133056](https://github.com/user-attachments/assets/dab0c4d3-f6e1-43f5-b7e8-10455483e676)
+![Screenshot 2025-06-05 133112](https://github.com/user-attachments/assets/b247f495-99e8-4a9e-823b-c2a562a7f36f)
+![Screenshot 2025-06-05 133132](https://github.com/user-attachments/assets/97ecfc32-90da-4308-8925-0b7624885ba2)
+
+
+
+
+
 
 ## 📂 Files Included
 
@@ -25,13 +35,7 @@ This project showcases a Power BI dashboard built to analyze sales trends during
 
 ---
 
-## 🌐 Live Report (Optional)
 
-If you'd like to explore the interactive dashboard online, access it via Power BI Service:
-
-🔗 [**View Live Report**](https://app.powerbi.com/...) *(Replace this with your actual published link)*
-
----
 
 ## 🚀 How to Use
 
@@ -51,10 +55,6 @@ If you'd like to explore the interactive dashboard online, access it via Power B
 
 ---
 
-## 📸 Preview
 
-![Dashboard Preview](images/snapshot.png)
-
----
 
 
