@@ -59,12 +59,7 @@ Here are a few snapshots of the dashboard:
 
 ---
 
-## 🔗 Live Report (Optional)
 
-> *(Only include this section if you publish it to Power BI Service)*  
-[Click here to view the live interactive dashboard](https://app.powerbi.com/...)  
-
----
 
 ## 🤝 Contributions
 
